@@ -7,7 +7,7 @@
   <a href="https://github.com/hookSSi"><div><img align="right" src="https://github-readme-stats.vercel.app/api?username=hookSSi&show_icons=true&count_private=true&theme=dark" alt="hookSSi's github stats"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hookSSi&layout=compact&theme=dark" /></div></a>
 
-- 📫 How to reach me: [Email](mailto:sounghoo12@changwon.ac.kr)
+- 📫 How to reach me: [Email](mailto:sounghoo12@gmail.com)
 
 <!--
 **hookSSi/hookSSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
