@@ -1,25 +1,8 @@
+# Welcome to HookSSi README.md
+Just someone who likes game development
 
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/@hookSSi?name=hookSSi&theme=booru-jaypee" height="100" align="bottom"></a>
 
-### HookSSi
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=hookSSi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Stats
 
-  <a href="https://github.com/hookSSi"><div><img align="right" src="https://github-readme-stats.vercel.app/api?username=hookSSi&show_icons=true&count_private=true&theme=dark" alt="hookSSi's github stats"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hookSSi&layout=compact&theme=dark" /></div></a>
-
-- 📫 How to reach me: [Email](mailto:sounghoo12@gmail.com)
-
-<!--
-**hookSSi/hookSSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HookSSi's GitHub stats](./profile/stats.svg)
